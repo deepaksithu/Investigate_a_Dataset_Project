@@ -11,6 +11,27 @@ This code depends on the following libraries:<br>
 4.`matplotlib.pyplot`<br>
 5.`seaborn`<br>
 
+In addition to these, the Jupyter Notebook assumes that the Kaggle data has been downloaded, extracted, and saved as 'noshowappointments-kagglev2-may-2016.csv'.
+
+## Project Structure
+
+Introduction <br>
+Data Wrangling
+  * General Data Overview
+  * Data Cleaning
+
+Data Analysis
+  * General
+  * Patient Age
+  * Disability Status
+  * Text Reminders
+
+Conclusions<br>
+Further Research<br>
+Limitations<br>
+
+
+
 ## To-do
 - improve visualizations<br>
 - needs to be cleaned up and reviewed<br>
